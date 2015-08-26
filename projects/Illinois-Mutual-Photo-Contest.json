@@ -1,0 +1,15 @@
+{
+    "id":"Illinois-Mutual-Photo-Contest",
+    "image":"IM-PhotoContest-2015.png", 
+    "title":"2015 Illinois Mutual Photo Contest", 
+    "description":"This is the 2015 version of the annual Illinois Mutual Photo Contest. I designed and developed the Illinois Mutual 2015 Photo Contest site in DNN using HTML, CSS, and jQuery. The form module we used for the photo submission was modified using jQuery to split the form fields into various steps.", 
+    "roles": [
+        {
+            "role":"Designer"
+        },
+        {
+            "role":"Developer"
+        }
+    ],
+    "sourcelink":"http://photocontest.illinoismutual.com"
+}

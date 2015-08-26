@@ -1,0 +1,15 @@
+{
+    "id":"Illinois-Mutual-Web-Style-Guide",
+    "image":"IM-StyleGuide-2015.png", 
+    "title":"Illinois Mutual Web Style Guide", 
+    "description":"I designed and developed the Illinois Mutual web style guide site in DNN using HTML and CSS. The site includes all branding guidelines for developing websites under the Illinois Mutual brand. I played a major role in developing the various guidelines for our website brand standards.", 
+    "roles": [
+        {
+            "role":"Designer"
+        },
+        {
+            "role":"Developer"
+        }
+    ], 
+    "sourcelink":"http://www.illinoismutual.com/styleguide"
+}

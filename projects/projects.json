@@ -1,0 +1,62 @@
+[
+    {
+        "id":"Illinois-Mutual-Photo-Contest",
+        "image":"IM-PhotoContest-2015.png", 
+        "title":"2015 Illinois Mutual Photo Contest", 
+        "description":"This is the 2015 version of the annual Illinois Mutual Photo Contest. I designed and developed the Illinois Mutual 2015 Photo Contest site in DNN using HTML, CSS, and jQuery. The form module we used for the photo submission was modified using jQuery to split the form fields into various steps.", 
+        "roles": [
+            {
+                "role":"Designer"
+            },
+            {
+                "role":"Developer"
+            }
+        ],
+        "sourcelink":"http://photocontest.illinoismutual.com"
+    },
+    {
+        "id":"Illinois-Mutual-Annual-Report",
+        "image":"IM-AnnualReport-2015.png", 
+        "title":"Illinois Mutual 2014 Annual Report", 
+        "description":"This is the 2014 version of the annual Illinois Mutual Annual Report. I designed and developed the Illinois Mutual 2014 Annual Report site in DNN using HTML, CSS, and jQuery. The site includes several animated statistics from custom code and an animated Financial Report utilizing Chart.js.", 
+        "roles": [
+            {
+                "role":"Designer"
+            },
+            {
+                "role":"Developer"
+            }
+        ], 
+        "sourcelink":"http://www.illinoismutualnow.com/2014annualreport"
+    },
+    {
+        "id":"Illinois-Mutual-Web-Style-Guide",
+        "image":"IM-StyleGuide-2015.png", 
+        "title":"Illinois Mutual Web Style Guide", 
+        "description":"I designed and developed the Illinois Mutual web style guide site in DNN using HTML and CSS. The site includes all branding guidelines for developing websites under the Illinois Mutual brand. I played a major role in developing the various guidelines for our website brand standards.", 
+        "roles": [
+            {
+                "role":"Designer"
+            },
+            {
+                "role":"Developer"
+            }
+        ], 
+        "sourcelink":"http://www.illinoismutual.com/styleguide"
+    },
+    {
+        "id":"Illinois-Mutual-DI-Needs-Calculator",
+        "image":"IM-DICalc-2015.png", 
+        "title":"Illinois Mutual DI Needs Calculator", 
+        "description":"I designed and developed a Disability Income Insurance Needs Calculator using HTML, CSS, and jQuery. Animate.js is utilized in the sprite animations when you interact with the sliders. The code to do the calculations is custom.", 
+        "roles": [
+            {
+                "role":"Designer"
+            },
+            {
+                "role":"Developer"
+            }
+        ], 
+        "sourcelink":"http://www.illinoismutual.com/Learning-Center"
+    }
+]

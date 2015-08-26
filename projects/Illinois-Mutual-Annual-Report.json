@@ -1,0 +1,15 @@
+{
+    "id":"Illinois-Mutual-Annual-Report",
+    "image":"IM-AnnualReport-2015.png", 
+    "title":"Illinois Mutual 2014 Annual Report", 
+    "description":"This is the 2014 version of the annual Illinois Mutual Annual Report. I designed and developed the Illinois Mutual 2014 Annual Report site in DNN using HTML, CSS, and jQuery. The site includes several animated statistics from custom code and an animated Financial Report utilizing Chart.js.", 
+    "roles": [
+        {
+            "role":"Designer"
+        },
+        {
+            "role":"Developer"
+        }
+    ], 
+    "sourcelink":"http://www.illinoismutualnow.com/2014annualreport"
+}

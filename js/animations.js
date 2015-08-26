@@ -1,0 +1,1 @@
+angular.module('spAnimations', ['ngAnimate']);

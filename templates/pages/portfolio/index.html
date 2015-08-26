@@ -1,0 +1,13 @@
+<section id="portfolio">
+    <div class="container clearfix">
+        <h2>Portfolio</h2>
+        <div class="item col-md-4 col-sm-6 col-xs-12 clearfix" ng-repeat="project in projects">
+            <div class="item-img col-md-12">
+                <a href="#/project/{{project.id}}"><img ng-src="img/portfolio/{{project.image}}" /></a>
+            </div>
+            <div class="col-md-12">
+                <h3>{{project.title}}</h3>
+            </div>
+        </div>
+    </div>
+</section>
